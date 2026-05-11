@@ -1,3 +1,8 @@
+Fork for customizing Dockerfile to add various QoL stuff:
+- Uses stable tags as base (currently 0.13.0)
+- Adds herm-tui
+- Add less, micro, nano
+---
 <p align="center">
   <img src="assets/banner.png" alt="Hermes Agent" width="100%">
 </p>
